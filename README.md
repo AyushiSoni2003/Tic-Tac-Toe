@@ -40,8 +40,6 @@ A classic Tic-Tac-Toe game built with Python, where two players take turns marki
 ## 📸 Screenshots:
 ![image](https://github.com/user-attachments/assets/5d121fcd-fee4-4696-bba5-9574e1c9bd43)
 
-(*You can add screenshots of the game running in your console here!*)
-
 ---
 
 ## 🤝 Contributing:
